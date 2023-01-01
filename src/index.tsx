@@ -126,6 +126,7 @@ const App = () => {
             </li>
             <li>
               <Link to="/page1">Page1</Link>
+              <Link to="/page2">Page2</Link>
             </li>
           </ul>
         </nav>
